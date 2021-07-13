@@ -5,6 +5,7 @@
 - 📫 How to reach me kam.andress89@gmail.com
 - Any code you see is from my colleges classes as I take them. They are codes that are done as projects or just in class assignments. I do plan on putting personal projects that I will be working on in here too. Take a look! 
 
+I know java, but have a little experience in python. I do plan on learning more python as well as java, so I will have python programs as well on here.
 <!---
 Cameron-Andress/Cameron-Andress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
