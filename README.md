@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @Cameron-Andress
-- 👀 I’m interested in Videogame Design and anything in the field of Astronomy. Whether it be cosmology, astrophysics, astrobiology, ect. I am always ready to learn and discuss about it and help out as much as possible. 
-- 🌱 I’m currently learning Engineering and Astrophysics
-- 💞️ I’m looking to collaborate on Astronomy Projects or videogame projects. I am very interested in both subjects and want to help out and learn a lot more along the way. 
-- 📫 How to reach me kam.andress89@gmail.com
-- Any code you see is from my colleges classes as I take them. They are codes that are done as projects or just in class assignments. I do plan on putting personal projects that I will be working on in here too. Take a look! 
+Any code you see is from my colleges classes as I take them. They are codes that are done as projects or just in class assignments. I do plan on putting personal projects that I will be working on in here too. Take a look! 
+UPDATE: This was my first time using Github, since then I have learned a bit more and have seperate repositories for different projects. 
